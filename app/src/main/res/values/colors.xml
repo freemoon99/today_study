@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="user_message_color">#767C7B</color>
+    <color name="other_message_color">#FEFEFF</color>
+    <color name="colorPrimary">#3579B1</color>
+    <color name="colorPrimaryDark">#1F5A95</color>
+    <color name="colorAccent">#03A9F4</color>
+    <color name="cardBackground">#2196F3</color> <!-- 카드 배경색 -->
+    <color name="editTextBackground">#E3F2FD</color> <!-- EditText 배경색 -->
+</resources>

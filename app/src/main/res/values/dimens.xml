@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- dimens.xml -->
+<resources>
+    <dimen name="bubble_padding">8dp</dimen>
+    <dimen name="bubble_margin">8dp</dimen>
+</resources>
